@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+We are creating a tech store that sells laptops and cell-phones, the theme is a blue and white background with black font. The objective of the project is to design a visually appealing and responsive layout via teamwork and practical application of CSS.
 
 ## Team Members:
 
@@ -20,6 +20,6 @@
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
-### Name 3:
+### Diljot Singh Sangha:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled the insertion of the laptop section and css related to it. Utilized responsive design techniques to ensure the webpage looks good on different screen sizes.
