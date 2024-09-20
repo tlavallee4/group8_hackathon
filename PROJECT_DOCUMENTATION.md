@@ -6,9 +6,9 @@ We are creating a tech store that sells laptops and cell-phones, the theme is a 
 
 ## Team Members:
 
--   Tanelle
--   Name 2
--   Name 3
+-   Tanelle 
+-   Carlos Sanchez Olguin
+-   Diljot Singh Sangha
 
 ## Member Contributions:
 
@@ -18,7 +18,7 @@ We are creating a tech store that sells laptops and cell-phones, the theme is a 
 
 ### Name 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the code of the Cell Phones section, focusing on the coding, design and media screen.
 
 ### Diljot Singh Sangha:
 
