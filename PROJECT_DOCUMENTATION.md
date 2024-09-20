@@ -5,8 +5,7 @@
 We are creating a tech store that sells laptops and cell-phones, the theme is a blue and white background with black font. The objective of the project is to design a visually appealing and responsive layout via teamwork and practical application of CSS.
 
 ## Team Members:
-
--   Tanelle 
+-   Tanelle Lavallee 
 -   Carlos Sanchez Olguin
 -   Diljot Singh Sangha
 
@@ -14,7 +13,7 @@ We are creating a tech store that sells laptops and cell-phones, the theme is a 
 
 ### Name 1:
 
--   Worked on [specific elements] of the webpage.
+-  Created the header and footer HTML/CSS, featuring navigation links, styling fonts, logo, contact information, etc.
 
 ### Name 2:
 
