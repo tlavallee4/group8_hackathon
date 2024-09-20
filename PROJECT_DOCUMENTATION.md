@@ -6,15 +6,15 @@
 
 ## Team Members:
 
--   Tanelle
+-   Tanelle Lavallee
 -   Name 2
--   Name 3
+-   Diljot Sangha
 
 ## Member Contributions:
 
 ### Name 1:
 
--   Worked on [specific elements] of the webpage.
+-  Created the header and footer HTML/CSS, featuring navigation links, styling fonts, logo, contact information, etc.
 
 ### Name 2:
 
