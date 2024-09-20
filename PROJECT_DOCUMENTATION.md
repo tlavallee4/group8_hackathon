@@ -6,7 +6,7 @@
 
 ## Team Members:
 
--   Name 1
+-   Tanelle
 -   Name 2
 -   Name 3
 
