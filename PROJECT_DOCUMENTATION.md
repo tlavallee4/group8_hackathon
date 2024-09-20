@@ -6,7 +6,7 @@ We are creating a tech store that sells laptops and cell-phones, the theme is a 
 
 ## Team Members:
 
--   Name 1
+-   Tanelle
 -   Name 2
 -   Name 3
 
