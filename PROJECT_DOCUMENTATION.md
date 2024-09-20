@@ -7,7 +7,7 @@
 ## Team Members:
 
 -   Name 1
--   Name 2
+-   Carlos Sanchez Olguin
 -   Name 3
 
 ## Member Contributions:
@@ -18,7 +18,7 @@
 
 ### Name 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the code of the Cell Phones section, focusing on the coding, design and media screen.
 
 ### Name 3:
 
